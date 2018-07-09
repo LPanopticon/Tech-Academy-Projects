@@ -1,0 +1,7 @@
+C:\Users\logan\Documents\GitHub\Class Work\Accounting\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\logan\Documents\GitHub\Class Work\Accounting\Accounting\bin\Debug\Accounting.exe
+C:\Users\logan\Documents\GitHub\Class Work\Accounting\Accounting\bin\Debug\Accounting.pdb
+C:\Users\logan\Documents\GitHub\Class Work\Accounting\Accounting\obj\Debug\Accounting.csprojAssemblyReference.cache
+C:\Users\logan\Documents\GitHub\Class Work\Accounting\Accounting\obj\Debug\Accounting.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\Class Work\Accounting\Accounting\obj\Debug\Accounting.exe
+C:\Users\logan\Documents\GitHub\Class Work\Accounting\Accounting\obj\Debug\Accounting.pdb
