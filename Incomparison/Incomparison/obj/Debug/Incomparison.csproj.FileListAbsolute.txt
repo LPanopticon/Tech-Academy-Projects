@@ -1,0 +1,7 @@
+C:\Users\logan\source\repos\Incomparison\Incomparison\bin\Debug\Incomparison.exe.config
+C:\Users\logan\source\repos\Incomparison\Incomparison\bin\Debug\Incomparison.exe
+C:\Users\logan\source\repos\Incomparison\Incomparison\bin\Debug\Incomparison.pdb
+C:\Users\logan\source\repos\Incomparison\Incomparison\obj\Debug\Incomparison.csprojAssemblyReference.cache
+C:\Users\logan\source\repos\Incomparison\Incomparison\obj\Debug\Incomparison.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\Incomparison\Incomparison\obj\Debug\Incomparison.exe
+C:\Users\logan\source\repos\Incomparison\Incomparison\obj\Debug\Incomparison.pdb
