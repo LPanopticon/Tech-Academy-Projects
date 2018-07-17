@@ -1,0 +1,7 @@
+C:\Users\logan\Documents\GitHub\Class Work\Insurance\Insurance\bin\Debug\Insurance.exe.config
+C:\Users\logan\Documents\GitHub\Class Work\Insurance\Insurance\bin\Debug\Insurance.exe
+C:\Users\logan\Documents\GitHub\Class Work\Insurance\Insurance\bin\Debug\Insurance.pdb
+C:\Users\logan\Documents\GitHub\Class Work\Insurance\Insurance\obj\Debug\Insurance.csprojAssemblyReference.cache
+C:\Users\logan\Documents\GitHub\Class Work\Insurance\Insurance\obj\Debug\Insurance.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\Class Work\Insurance\Insurance\obj\Debug\Insurance.exe
+C:\Users\logan\Documents\GitHub\Class Work\Insurance\Insurance\obj\Debug\Insurance.pdb
