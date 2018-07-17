@@ -1,0 +1,7 @@
+C:\Users\logan\Documents\GitHub\Class Work\Bool\Bool\obj\Debug\Bool.csprojAssemblyReference.cache
+C:\Users\logan\Documents\GitHub\Class Work\Bool\Bool\obj\Debug\Bool.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\Class Work\Bool\Bool\bin\Debug\Bool.exe.config
+C:\Users\logan\Documents\GitHub\Class Work\Bool\Bool\bin\Debug\Bool.exe
+C:\Users\logan\Documents\GitHub\Class Work\Bool\Bool\bin\Debug\Bool.pdb
+C:\Users\logan\Documents\GitHub\Class Work\Bool\Bool\obj\Debug\Bool.exe
+C:\Users\logan\Documents\GitHub\Class Work\Bool\Bool\obj\Debug\Bool.pdb
