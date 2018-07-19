@@ -1,0 +1,7 @@
+C:\Users\logan\Documents\GitHub\Class Work\FunWithString\FunWithString\bin\Debug\FunWithString.exe.config
+C:\Users\logan\Documents\GitHub\Class Work\FunWithString\FunWithString\bin\Debug\FunWithString.exe
+C:\Users\logan\Documents\GitHub\Class Work\FunWithString\FunWithString\bin\Debug\FunWithString.pdb
+C:\Users\logan\Documents\GitHub\Class Work\FunWithString\FunWithString\obj\Debug\FunWithString.csprojAssemblyReference.cache
+C:\Users\logan\Documents\GitHub\Class Work\FunWithString\FunWithString\obj\Debug\FunWithString.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\Class Work\FunWithString\FunWithString\obj\Debug\FunWithString.exe
+C:\Users\logan\Documents\GitHub\Class Work\FunWithString\FunWithString\obj\Debug\FunWithString.pdb
