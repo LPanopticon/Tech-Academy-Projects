@@ -1,0 +1,7 @@
+C:\Users\logan\Documents\GitHub\Class Work\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\logan\Documents\GitHub\Class Work\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\logan\Documents\GitHub\Class Work\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\logan\Documents\GitHub\Class Work\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\Class Work\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\logan\Documents\GitHub\Class Work\Iteration\Iteration\obj\Debug\Iteration.pdb
+C:\Users\logan\Documents\GitHub\Class Work\Iteration\Iteration\obj\Debug\Iteration.csprojAssemblyReference.cache
