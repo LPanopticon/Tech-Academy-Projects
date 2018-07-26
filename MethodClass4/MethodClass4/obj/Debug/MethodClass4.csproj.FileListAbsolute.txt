@@ -1,0 +1,7 @@
+C:\Users\logan\Documents\GitHub\Class Work\MethodClass4\MethodClass4\bin\Debug\MethodClass4.exe.config
+C:\Users\logan\Documents\GitHub\Class Work\MethodClass4\MethodClass4\bin\Debug\MethodClass4.exe
+C:\Users\logan\Documents\GitHub\Class Work\MethodClass4\MethodClass4\bin\Debug\MethodClass4.pdb
+C:\Users\logan\Documents\GitHub\Class Work\MethodClass4\MethodClass4\obj\Debug\MethodClass4.csprojAssemblyReference.cache
+C:\Users\logan\Documents\GitHub\Class Work\MethodClass4\MethodClass4\obj\Debug\MethodClass4.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\Class Work\MethodClass4\MethodClass4\obj\Debug\MethodClass4.exe
+C:\Users\logan\Documents\GitHub\Class Work\MethodClass4\MethodClass4\obj\Debug\MethodClass4.pdb
