@@ -1,0 +1,7 @@
+C:\Users\logan\Documents\GitHub\Class Work\MethodClass6\MethodClass6\bin\Debug\MethodClass6.exe.config
+C:\Users\logan\Documents\GitHub\Class Work\MethodClass6\MethodClass6\bin\Debug\MethodClass6.exe
+C:\Users\logan\Documents\GitHub\Class Work\MethodClass6\MethodClass6\bin\Debug\MethodClass6.pdb
+C:\Users\logan\Documents\GitHub\Class Work\MethodClass6\MethodClass6\obj\Debug\MethodClass6.csprojAssemblyReference.cache
+C:\Users\logan\Documents\GitHub\Class Work\MethodClass6\MethodClass6\obj\Debug\MethodClass6.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\Class Work\MethodClass6\MethodClass6\obj\Debug\MethodClass6.exe
+C:\Users\logan\Documents\GitHub\Class Work\MethodClass6\MethodClass6\obj\Debug\MethodClass6.pdb
