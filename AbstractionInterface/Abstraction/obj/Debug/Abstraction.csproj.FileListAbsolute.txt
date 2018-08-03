@@ -1,0 +1,14 @@
+C:\Users\logan\Documents\GitHub\Class Work\Abstraction\Abstraction\obj\Debug\Abstraction.csprojAssemblyReference.cache
+C:\Users\logan\Documents\GitHub\Class Work\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\Class Work\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\logan\Documents\GitHub\Class Work\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\logan\Documents\GitHub\Class Work\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\logan\Documents\GitHub\Class Work\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\logan\Documents\GitHub\Class Work\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
+C:\Users\logan\Documents\GitHub\Class Work\AbstractionInterface\Abstraction\obj\Debug\Abstraction.csprojAssemblyReference.cache
+C:\Users\logan\Documents\GitHub\Class Work\AbstractionInterface\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\Class Work\AbstractionInterface\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\logan\Documents\GitHub\Class Work\AbstractionInterface\Abstraction\obj\Debug\Abstraction.pdb
+C:\Users\logan\Documents\GitHub\Class Work\AbstractionInterface\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\logan\Documents\GitHub\Class Work\AbstractionInterface\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\logan\Documents\GitHub\Class Work\AbstractionInterface\Abstraction\bin\Debug\Abstraction.pdb
