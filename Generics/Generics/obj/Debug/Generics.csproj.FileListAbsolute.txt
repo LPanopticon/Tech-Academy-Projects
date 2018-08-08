@@ -1,0 +1,7 @@
+C:\Users\logan\Documents\GitHub\Class Work\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\logan\Documents\GitHub\Class Work\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\logan\Documents\GitHub\Class Work\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\logan\Documents\GitHub\Class Work\Generics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\logan\Documents\GitHub\Class Work\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\Class Work\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\logan\Documents\GitHub\Class Work\Generics\Generics\obj\Debug\Generics.pdb
