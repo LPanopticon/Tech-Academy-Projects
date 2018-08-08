@@ -1,0 +1,7 @@
+C:\Users\logan\Documents\GitHub\Class Work\StructURStuff\StructURStuff\bin\Debug\StructURStuff.exe.config
+C:\Users\logan\Documents\GitHub\Class Work\StructURStuff\StructURStuff\bin\Debug\StructURStuff.exe
+C:\Users\logan\Documents\GitHub\Class Work\StructURStuff\StructURStuff\bin\Debug\StructURStuff.pdb
+C:\Users\logan\Documents\GitHub\Class Work\StructURStuff\StructURStuff\obj\Debug\StructURStuff.csprojAssemblyReference.cache
+C:\Users\logan\Documents\GitHub\Class Work\StructURStuff\StructURStuff\obj\Debug\StructURStuff.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\Class Work\StructURStuff\StructURStuff\obj\Debug\StructURStuff.exe
+C:\Users\logan\Documents\GitHub\Class Work\StructURStuff\StructURStuff\obj\Debug\StructURStuff.pdb
