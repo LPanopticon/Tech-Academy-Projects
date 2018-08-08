@@ -1,0 +1,7 @@
+C:\Users\logan\Documents\GitHub\Class Work\Enum\Enum\bin\Debug\Enum.exe.config
+C:\Users\logan\Documents\GitHub\Class Work\Enum\Enum\bin\Debug\Enum.exe
+C:\Users\logan\Documents\GitHub\Class Work\Enum\Enum\bin\Debug\Enum.pdb
+C:\Users\logan\Documents\GitHub\Class Work\Enum\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+C:\Users\logan\Documents\GitHub\Class Work\Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\Class Work\Enum\Enum\obj\Debug\Enum.exe
+C:\Users\logan\Documents\GitHub\Class Work\Enum\Enum\obj\Debug\Enum.pdb
