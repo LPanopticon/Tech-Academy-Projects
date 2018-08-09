@@ -1,0 +1,7 @@
+C:\Users\logan\Documents\GitHub\Class Work\LambdaStuff\LambdaStuff\bin\Debug\LambdaStuff.exe.config
+C:\Users\logan\Documents\GitHub\Class Work\LambdaStuff\LambdaStuff\bin\Debug\LambdaStuff.exe
+C:\Users\logan\Documents\GitHub\Class Work\LambdaStuff\LambdaStuff\bin\Debug\LambdaStuff.pdb
+C:\Users\logan\Documents\GitHub\Class Work\LambdaStuff\LambdaStuff\obj\Debug\LambdaStuff.csprojAssemblyReference.cache
+C:\Users\logan\Documents\GitHub\Class Work\LambdaStuff\LambdaStuff\obj\Debug\LambdaStuff.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\Class Work\LambdaStuff\LambdaStuff\obj\Debug\LambdaStuff.exe
+C:\Users\logan\Documents\GitHub\Class Work\LambdaStuff\LambdaStuff\obj\Debug\LambdaStuff.pdb
