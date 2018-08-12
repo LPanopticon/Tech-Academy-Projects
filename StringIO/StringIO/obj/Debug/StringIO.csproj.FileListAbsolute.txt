@@ -1,0 +1,7 @@
+C:\Users\logan\Documents\GitHub\Class Work\StringIO\StringIO\obj\Debug\StringIO.csprojAssemblyReference.cache
+C:\Users\logan\Documents\GitHub\Class Work\StringIO\StringIO\obj\Debug\StringIO.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\Class Work\StringIO\StringIO\bin\Debug\StringIO.exe.config
+C:\Users\logan\Documents\GitHub\Class Work\StringIO\StringIO\bin\Debug\StringIO.exe
+C:\Users\logan\Documents\GitHub\Class Work\StringIO\StringIO\bin\Debug\StringIO.pdb
+C:\Users\logan\Documents\GitHub\Class Work\StringIO\StringIO\obj\Debug\StringIO.exe
+C:\Users\logan\Documents\GitHub\Class Work\StringIO\StringIO\obj\Debug\StringIO.pdb
