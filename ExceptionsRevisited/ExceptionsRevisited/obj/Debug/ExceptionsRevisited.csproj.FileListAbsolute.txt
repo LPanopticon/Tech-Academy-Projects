@@ -1,0 +1,7 @@
+C:\Users\logan\Documents\GitHub\Class Work\ExceptionsRevisited\ExceptionsRevisited\bin\Debug\ExceptionsRevisited.exe.config
+C:\Users\logan\Documents\GitHub\Class Work\ExceptionsRevisited\ExceptionsRevisited\bin\Debug\ExceptionsRevisited.exe
+C:\Users\logan\Documents\GitHub\Class Work\ExceptionsRevisited\ExceptionsRevisited\bin\Debug\ExceptionsRevisited.pdb
+C:\Users\logan\Documents\GitHub\Class Work\ExceptionsRevisited\ExceptionsRevisited\obj\Debug\ExceptionsRevisited.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\Class Work\ExceptionsRevisited\ExceptionsRevisited\obj\Debug\ExceptionsRevisited.exe
+C:\Users\logan\Documents\GitHub\Class Work\ExceptionsRevisited\ExceptionsRevisited\obj\Debug\ExceptionsRevisited.pdb
+C:\Users\logan\Documents\GitHub\Class Work\ExceptionsRevisited\ExceptionsRevisited\obj\Debug\ExceptionsRevisited.csprojAssemblyReference.cache
